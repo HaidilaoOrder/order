@@ -33,6 +33,7 @@
         left: 0;
         top: 0;
         box-shadow: 0 0 2px #999;
+        z-index: 1000;
     }
     .maxWidth{
         max-width: 1200px;
